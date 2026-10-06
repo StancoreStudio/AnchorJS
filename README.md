@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 # AnchorJS
 
 **JavaScript-слой Stancore Studio**
 
-[![Org](https://img.shields.io/badge/Stancore-Studio-06B6D4?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/StancoreStudio)
+[![Org](https://img.shields.io/badge/StancoreStudio-06B6D4?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/StancoreStudio)
 [![Catalog](https://img.shields.io/badge/Catalog-developments-F472B6?style=for-the-badge)](https://github.com/StancoreStudio/developments)
 [![Telegram](https://img.shields.io/badge/Telegram-TheStancore-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheStancore)
 
